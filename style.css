@@ -1,0 +1,1250 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-icons{
+    width: 35px;
+    height: 35px;
+    padding: 20px;
+}
+.navss{
+    width: 20px;
+    height: 10px;
+    margin-top: 5%;
+    margin-right: 1%;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+}
+.myNavs{
+    display: flex;
+    flex-direction: row;
+}
+.navv{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+}
+.iconsN{
+    margin-left: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 5%;
+    margin-right: 10%;
+    padding:  20px;
+    font-size: large;
+}
+
+.homep{
+    width: 700px;
+    height: 600px;
+}
+.homePhoto{
+    display: flex;
+    flex-direction: row;
+
+}
+.h2{
+    width: 30%;
+    height: 30px;
+}
+.imgagee{
+    width: 20px;
+    height: 10px;
+}
+.h21{
+    width: 50%;
+    height: 30%;
+}
+.inspireP{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .nav-icons{
+        width: 35px;
+        height: 35px;
+        padding: 20px;
+    }
+    .navss{
+        width: 20px;
+        height: 10px;
+        margin-top: 5%;
+        margin-right: 1%;
+    }
+    .nav-bar{
+        display: flex;
+        flex-direction: row;
+    }
+    .myNavs{
+        display: flex;
+        flex-direction: row;
+    }
+    .navv{
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+    }
+    .iconsN{
+        margin-left: 20%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        padding:  20px;
+    }
+    
+    .homep{
+        width: 700px;
+        height: 600px;
+    }
+    .homePhoto{
+        display: flex;
+        flex-direction: row;
+        gap: 5%;
+    
+    }
+    .h2{
+        width: 70%;
+        height: 90%;
+    }
+    .inspireP{
+        display: flex;
+        flex-direction: row;
+        gap: 50%;
+        background-color: #eeeeee;
+    
+    }
+    .sale{
+        display: flex;
+        flex-direction: column;
+    }
+    .homeSide{
+        display: flex;
+        flex-direction: column;
+        background-color: #eeeeee;
+    }
+    .h2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    .homeSection{
+        color: #609956;
+        font-size: xx-large;
+    }
+    .pt{
+        font-size: large;
+    }
+    .section2{
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+    .sales{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .cactus{
+        width: 90px;
+        height: 90px;
+    }
+    .allPlants{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .manyImages1{
+        display: flex;
+        flex-direction: row;
+        gap: 20%;
+    }
+    .oneImages{
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+    
+    .oneImage{
+        width: 200px;
+        height: 200px;
+        margin-left: 25%;
+    }
+    .girlly{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+        margin-left: 20%;
+    
+    }
+    .fig{
+        margin-right: 0%;
+    }
+    .one{
+        height: 65%;
+    }
+    .myGirl{
+        border-radius: 100px;
+        width: 50px;
+        height: 50px;
+        margin-top: 5%;
+    }
+    
+    figcaption{
+        text-align: center;
+    }
+    .product{
+        text-align: center;
+    }
+    .btn{
+        background-color: #5e901b;
+        color: white;
+        border-radius: 10px;
+        height: 40px;
+        width: 30%;
+        font-size: large;
+    }
+    .tree{
+        display: flex;
+        flex-direction: row;
+        gap: 10%;
+        font-size: larger;
+        margin-left: 10%;
+    }
+    .blogs{
+        width: 20px;
+        height: 20px;
+    }
+    .treeSection{
+        margin-top: 2%;
+    }
+    .tree1{
+        width: 450px;
+        height: 550px;
+    }
+    
+    
+    .image{
+        position: absolute;
+        text-align: center;
+    }
+    .advert{
+        position: absolute;
+        margin-top: 3%;
+        /* margin-left: 20%; */
+        color: black;
+    
+    
+    }
+    .big{
+        position: relative;
+    
+    }
+    p{
+        font-size: x-large;
+    }
+    .myImg{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        margin-top: 20%;
+    }
+    .bigImage{
+        width: 1500px;
+        height: 950px;
+    }
+    .leafy{
+        margin-right: 90%;
+    }
+    .img3{
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+    .girl{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        margin-left: 15%;
+    }
+    
+    .imgs{
+        border-radius: 20px;
+        width: 350px;
+        height: 250px;
+    }
+    .img11{
+        border-radius: 20px;
+        width: 250px;
+        height: 200px;
+    
+    }
+    .aboveFooter{
+        text-align: center
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+    
+    .iconsFooter{
+        width: 50px;
+        height: 50px;
+    }
+    .clients{
+        text-align: center;
+    }
+
+.cactus{
+    width: 190px;
+    height: 150px;
+}
+.allPlants{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40%;
+    gap: 5%;
+}
+.all{
+    margin-left: 55%;
+}
+.all1{
+    margin-right: 11%;
+}
+.manyImages1{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.oneImages{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.oneImage{
+    width: 200px;
+    height: 200px;
+    margin-left: 25%;
+}
+.girlly{
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+
+}
+figcaption{
+    font-size: large;
+}
+.fig{
+    margin-right: 0%;
+}
+.one{
+    height: 65%;
+
+}
+
+.myGirl{
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    margin-top: 5%;
+}
+
+figcaption{
+    text-align: center;
+}
+.product{
+    text-align: center;
+}
+.btn{
+    background-color: #5e901b;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 30%;
+    font-size: large;
+}
+.tree{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    font-size: larger;
+}
+.blogs{
+    width: 400px;
+    height: 300px;
+}
+.treeSection{
+    margin-top: 1px;
+}
+.tree1{
+    width: 550px;
+    height: 550px;
+}
+.shop{
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+}
+.bt{
+    background-color: #5e901b;
+    color: white;
+}
+
+
+.image{
+    position: absolute;
+    text-align: center;
+}
+.advert{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 50%;
+
+
+}
+.big{
+    position: relative;
+    background-color: #eeeeee;
+
+}
+p{
+    font-size: x-large;
+}
+.myImg{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 20%;
+}
+.bigImage{
+    width: 1500px;
+    height: 350px;
+}
+.leafy{
+    margin-right: 90%;
+}
+.img3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.girl{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 15%;
+}
+
+.imgs{
+    border-radius: 20px;
+    width: 350px;
+    height: 250px;
+}
+.img11{
+    border-radius: 20px;
+    width: 250px;
+    height: 200px;
+
+}
+.sticker{
+    width: 200px;
+    height: 120px;
+    position: relative;
+}
+.aboveFooter{
+    text-align: center
+}
+.footer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.iconsFooter{
+    width: 50px;
+    height: 50px;
+}
+.clients{
+    text-align: center;
+}
+
+@media only screen and (min-width: 280px) and (max-width: 521px){
+    /* body{
+        background-color: yellow;
+    } */
+
+    .nav{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .nav-icons{
+        width: 35px;
+        height: 35px;
+        padding: 20px;
+    }
+    .navss{
+        width: 20px;
+        height: 10px;
+        margin-top: 5%;
+        margin-right: 1%;
+    }
+    .nav-bar{
+        display: flex;
+        flex-direction: row;
+    }
+    .myNavs{
+        display: flex;
+        flex-direction: column;
+    }
+    .navv{
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+    }
+    .iconsN{
+        margin-left: 20%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        padding:  20px;
+    }
+    
+    .homep{
+        width: 300px;
+        height: 400px;
+    }
+    .homePhoto{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    
+    }
+    .h2{
+        width: 70%;
+        height: 90%;
+    }
+    .inspireP{
+        display: flex;
+        flex-direction: column;
+        gap: 50%;
+        background-color: #eeeeee;
+    
+    }
+    .sale{
+        display: flex;
+        flex-direction: column;
+    }
+    .homeSide{
+        display: flex;
+        flex-direction: column;
+        background-color: #eeeeee;
+    }
+    .inspire2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .homeSection{
+        color: #609956;
+        font-size: xx-large;
+    }
+    .pt{
+        font-size: large;
+    }
+    .section2{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .sales{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .cactus{
+        width: 90px;
+        height: 90px;
+    }
+    .allPlants{
+        display: grid;
+        grid-template-columns: auto;
+        font-size: small;
+    }
+    .manyImages1{
+        display: flex;
+        flex-direction: column;
+        gap: 20%;
+    }
+    .oneImages{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .oneImage{
+        width: 200px;
+        height: 200px;
+        margin-left: 5%;
+    }
+    .girlly{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    
+    }
+    .fig{
+        margin-right: 0%;
+    }
+    .one{
+        height: 15%;
+        width: 125%;
+    }
+    .myGirl{
+        border-radius: 100px;
+        width: 50px;
+        height: 50px;
+        margin-top: 5%;
+    }
+    
+    figcaption{
+        font-size: small;
+    }
+    .product{
+        text-align: center;
+    }
+    .btn{
+        background-color: #5e901b;
+        color: white;
+        border-radius: 10px;
+        height: 40px;
+        width: 50%;
+        font-size: large;
+        margin-bottom: 20%;
+    }
+    .tree{
+        display: flex;
+        flex-direction: column;
+        gap: 10%;
+        font-size: larger;
+    }
+    .blogs{
+        width: 200px;
+        height: 200px;
+    }
+    .treeSection{
+        margin-top: 10%;
+    }
+    .tree1{
+        width: 200px;
+        height: 300px;
+    }
+    
+    
+    .image{
+        position: absolute;
+        text-align: center;
+    }
+    .advert{
+        position: relative;
+        margin-top: 33%;
+        margin-left: 50%;
+    
+    
+    }
+    .big{
+        position: relative;
+    
+    }
+    p{
+        font-size: large;
+    }
+    .myImg{
+        display: grid;
+        grid-template-columns: auto;
+        margin-top: 20%;
+    }
+    .bigImage{
+        width: 200px;
+        height: 350px;
+    }
+    .leafy{
+        margin-right: 90%;
+    }
+    .img3{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .girl{
+        display: grid;
+        grid-template-columns: auto;
+        margin-left: 15%;
+    }
+    
+    .imgs{
+        border-radius: 20px;
+        width: 150px;
+        height: 150px;
+        margin-top: 10%;
+    }
+    .img11{
+        border-radius: 20px;
+        width: 180px;
+        height: 120px;
+        margin-top: 10%;
+
+    
+    }
+    .aboveFooter{
+        text-align: center
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .iconsFooter{
+        width: 50px;
+        height: 50px;
+    }
+    .clients{
+        text-align: center;
+    }
+    
+    
+}
+
+@media only screen and (min-width: 539px) and (max-width: 913px){
+    /* body{
+        background-color: yellow;
+    } */
+
+    .nav{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .nav-icons{
+        width: 35px;
+        height: 35px;
+        padding: 20px;
+    }
+    .navss{
+        width: 20px;
+        height: 10px;
+        margin-top: 5%;
+        margin-right: 1%;
+    }
+    .nav-bar{
+        display: flex;
+        flex-direction: row;
+    }
+    .myNavs{
+        display: flex;
+        flex-direction: column;
+    }
+    .navv{
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+    }
+    .iconsN{
+        margin-left: 20%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        padding:  20px;
+    }
+    
+    .homep{
+        width: 600px;
+        height: 500px;
+    }
+    .homePhoto{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    
+    }
+    .h2{
+        width: 30%;
+        height: 50%;
+    }
+    .inspireP{
+        display: flex;
+        flex-direction: column;
+        gap: 50%;
+    
+    }
+    .spSize{
+        font-size: xx-large;
+        margin-right: 90%;
+    }
+    .sale{
+        display: flex;
+        flex-direction: column;
+        font-size: large;
+    }
+    .homeSide{
+        display: flex;
+        flex-direction: column;
+        font-size: xx-large;
+    }
+    .inspire2{
+        display: flex;
+        flex-direction: column;
+    }
+    .section2{
+        margin-left: 5%;
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .homeSection{
+        color: #609956;
+        font-size: xx-large;
+    }
+    .pt{
+        font-size: xx-large;
+    }
+    .section2{
+        display: grid;
+        grid-template-columns: auto;
+        gap: 40%;
+        margin-bottom: 90%;
+    }
+    .sales{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .cactus{
+        width: 90px;
+        height: 90px;
+    }
+    .allPlants{
+        display: grid;
+        grid-template-columns: auto;
+        margin-top: 130px;
+    }
+    .manyImages1{
+        display: flex;
+        flex-direction: column;
+        gap: 20%;
+    }
+    .oneImages{
+        display: grid;
+        grid-template-columns: auto;
+        margin-right: 20%;
+    }
+    
+    .oneImage{
+        width: 200px;
+        height: 200px;
+        margin-left: 25%;
+    }
+    .girlly{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    
+    }
+    .fig{
+        margin-right: 0%;
+    }
+    .one{
+        height: 250px;
+        width: 300px;
+
+    }
+    .myGirl{
+        border-radius: 100px;
+        width: 50px;
+        height: 50px;
+        margin-top: 5%;
+    }
+    
+    figcaption{
+        text-align: center;
+        font-size:large;
+    }
+    .product{
+        text-align: center;
+    }
+    
+    .btn{
+        background-color: #5e901b;
+        color: white;
+        border-radius: 10px;
+        height: 40px;
+        width: 50%;
+        font-size: large;
+    }
+    .tree{
+        display: flex;
+        flex-direction: column;
+        gap: 50%;
+        font-size: larger;
+    }
+    .blogs{
+        width: 20px;
+        height: 20px;
+    }
+    .treeSection{
+    }
+    .tree1{
+        width: 350px;
+        height: 550px;
+    }
+    
+    
+    .image{
+        position: absolute;
+        text-align: center;
+    }
+    .advert{
+        position: absolute;
+        margin-top: 3%;
+        margin-left: 20%;
+    
+    }
+    .big{
+        position: relative;
+    
+    }
+    p{
+        font-size: medium;
+    }
+    .myImg{
+        display: grid;
+        grid-template-columns: auto ;
+        margin-top: 20%;
+    }
+    .bigImage{
+        width: 500px;
+        height: 350px;
+    }
+    .leafy{
+        margin-right: 90%;
+    }
+    .img3{
+        display: grid;
+        grid-template-columns: auto;
+        gap: 70px;
+    }
+    .girl{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .imgs{
+        border-radius: 20px;
+        width: 350px;
+        height: 250px;
+        margin-top: 10%;
+
+    }
+    .img11{
+        border-radius: 20px;
+        width: 250px;
+        height: 200px;
+        margin-top: 10%;
+    
+    }
+    .urban{
+        margin-right: 50%;
+    }
+    .aboveFooter{
+        text-align: center;
+        margin-right: 40%;
+        
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .iconsFooter{
+        width: 50px;
+        height: 50px;
+    }
+    .clients{
+        text-align: center;
+    }
+    
+    
+
+}
+
+@media only screen and (min-width: 915px) and (max-width: 1280px){
+     /* body{
+        background-color: yellow;
+    } */
+
+    .nav{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .nav-icons{
+        width: 35px;
+        height: 35px;
+        padding: 20px;
+    }
+    .navss{
+        width: 20px;
+        height: 10px;
+        margin-top: 5%;
+        margin-right: 1%;
+    }
+    .nav-bar{
+        display: flex;
+        flex-direction: row;
+    }
+    .myNavs{
+        display: flex;
+        flex-direction: column;
+    }
+    .navv{
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+    }
+    .iconsN{
+        margin-left: 20%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+        margin-bottom: 5%;
+        margin-right: 10%;
+        padding:  20px;
+    }
+    
+    .homep{
+        width: 600px;
+        height: 500px;
+    }
+    .homePhoto{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    
+    }
+    .h2{
+        width: 30%;
+        height: 50%;
+    }
+    .inspireP{
+        display: flex;
+        flex-direction: column;
+        gap: 50%;
+    
+    }
+    .spSize{
+        font-size: xx-large;
+        margin-right: 90%;
+    }
+    .sale{
+        display: flex;
+        flex-direction: column;
+        font-size: large;
+    }
+    .homeSide{
+        display: flex;
+        flex-direction: column;
+        font-size: xx-large;
+    }
+    .inspire2{
+        display: flex;
+        flex-direction: column;
+    }
+    .section2{
+        margin-left: 5%;
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .homeSection{
+        color: #609956;
+        font-size: xx-large;
+    }
+    .pt{
+        font-size: xx-large;
+    }
+    .section2{
+        display: grid;
+        grid-template-columns: auto;
+        gap: 40%;
+        margin-bottom: 90%;
+    }
+    .sales{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .cactus{
+        width: 90px;
+        height: 90px;
+    }
+    .allPlants{
+        display: grid;
+        grid-template-columns: auto;
+        margin-top: 130px;
+    }
+    .manyImages1{
+        display: flex;
+        flex-direction: column;
+        gap: 20%;
+    }
+    .oneImages{
+        display: grid;
+        grid-template-columns: auto;
+        margin-right: 20%;
+    }
+    
+    .oneImage{
+        width: 200px;
+        height: 200px;
+        margin-left: 25%;
+    }
+    .girlly{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+    
+    }
+    .fig{
+        margin-right: 0%;
+    }
+    .one{
+        height: 250px;
+        width: 300px;
+
+    }
+    .myGirl{
+        border-radius: 100px;
+        width: 50px;
+        height: 50px;
+        margin-top: 5%;
+    }
+    
+    figcaption{
+        text-align: center;
+        font-size:large;
+    }
+    .product{
+        text-align: center;
+    }
+    
+    .btn{
+        background-color: #5e901b;
+        color: white;
+        border-radius: 10px;
+        height: 40px;
+        width: 50%;
+        font-size: large;
+    }
+    .tree{
+        display: flex;
+        flex-direction: column;
+        gap: 50%;
+        font-size: larger;
+    }
+    .blogs{
+        width: 20px;
+        height: 20px;
+    }
+    .treeSection{
+    }
+    .tree1{
+        width: 350px;
+        height: 550px;
+    }
+    
+    
+    .image{
+        position: absolute;
+        text-align: center;
+    }
+    .advert{
+        position: absolute;
+        margin-top: 3%;
+        margin-left: 20%;
+    
+    }
+    .big{
+        position: relative;
+    
+    }
+    p{
+        font-size: medium;
+    }
+    .myImg{
+        display: grid;
+        grid-template-columns: auto ;
+        margin-top: 20%;
+    }
+    .bigImage{
+        width: 500px;
+        height: 350px;
+    }
+    .leafy{
+        margin-right: 90%;
+    }
+    .img3{
+        display: grid;
+        grid-template-columns: auto;
+        gap: 70px;
+    }
+    .girl{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .imgs{
+        border-radius: 20px;
+        width: 350px;
+        height: 250px;
+        margin-top: 10%;
+
+    }
+    .img11{
+        border-radius: 20px;
+        width: 250px;
+        height: 200px;
+        margin-top: 10%;
+    
+    }
+    .urban{
+        margin-right: 50%;
+    }
+    .aboveFooter{
+        text-align: center;
+        margin-right: 40%;
+        
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+    .iconsFooter{
+        width: 50px;
+        height: 50px;
+    }
+    .clients{
+        text-align: center;
+    }
+    
+    
+
+}
